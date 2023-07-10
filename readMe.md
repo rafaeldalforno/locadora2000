@@ -10,4 +10,6 @@ git branch --list   --> Listar as branches existentes
 git checkout "nome" --> Alterar de branch
 git branch -d "nome"   --> Excluir branch pelo nome
 
+git pull origin main    --> Atualiza o repositório local, conforme alterações do repositório do gitHub
+
 git clone "endereço"    --> Clonar o repositório de alguém do gitHUb
